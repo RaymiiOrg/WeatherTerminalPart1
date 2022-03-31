@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WeatherPage.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>WeatherCode.qml</file>
+        <file>icons/cloud-showers-heavy-solid.svg</file>
+        <file>icons/cloud-sun-solid.svg</file>
+        <file>icons/sun-solid.svg</file>
+        <file>icons/rainbow-solid.svg</file>
+        <file>icons/cloud-rain.svg</file>
+        <file>icons/circle-question-solid.svg</file>
+        <file>Temperature.qml</file>
+        <file>icons/temperature-high-solid.svg</file>
+        <file>icons/smog-solid.svg</file>
+        <file>icons/temperature-half-solid.svg</file>
+        <file>icons/temperature-low-solid.svg</file>
+        <file>icons/snowflake-solid.svg</file>
+        <file>icons/poo-storm-solid.svg</file>
+        <file>icons/cloud-showers-water-solid.svg</file>
+        <file>icons/wind-solid.svg</file>
+        <file>icons/clock-solid.svg</file>
+    </qresource>
+</RCC>
